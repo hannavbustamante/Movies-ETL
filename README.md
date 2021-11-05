@@ -1,1 +1,2 @@
-# Movies-ETL
+### Purpose
+The Amazing Prime, a video streaming company, decided to sponsor a hackathon, where participants trying to predict which low budget movies being released will become popular. Participants of a hackathon need a clean data in order to perform analyses for their algorithms. In order to provide an organized and clean dataset, this project focuses on ETL* or the Extract, Transform and Load process.
